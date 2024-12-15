@@ -1,9 +1,7 @@
 ﻿using UnityEngine;
+using Boxophobic.StyledGUI;
 
-namespace Boxophobic.StyledGUI
+public class StyledMonoBehaviour : MonoBehaviour
 {
-    public class StyledMonoBehaviour : MonoBehaviour
-    {
 
-    }
 }

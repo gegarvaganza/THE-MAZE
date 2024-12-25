@@ -2,17 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+namespace KeySystem
 {
-    // Start is called before the first frame update
-    void Start()
+    public class KeyInventory : MonoBehaviour
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        public bool hasGoldKey = false;
     }
 }

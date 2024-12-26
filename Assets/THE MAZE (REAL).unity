@@ -187,6 +187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -358,6 +362,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -569,6 +577,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -672,6 +684,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (111)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1036,6 +1052,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (176)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1440,6 +1460,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1600,6 +1624,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall_22 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
       value: 2.042
@@ -1721,6 +1749,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2083,6 +2115,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (112)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2319,6 +2355,10 @@ PrefabInstance:
     - target: {fileID: 305716340, guid: efd73b770561f1e44a9a13dfaa838213, type: 3}
       propertyPath: m_Name
       value: Bone_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 305716340, guid: efd73b770561f1e44a9a13dfaa838213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5734525275099849621, guid: efd73b770561f1e44a9a13dfaa838213, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2575,6 +2615,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (187)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3104,6 +3148,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3389,6 +3437,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (174)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3644,6 +3696,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3747,6 +3803,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (117)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4088,6 +4148,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (191)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4269,6 +4333,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (190)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4500,6 +4568,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (177)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4817,6 +4889,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (197)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4857,6 +4933,41 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 2733448660354597953, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+--- !u!21 &106299349
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Height Fog Global
+  m_Shader: {fileID: 4800000, guid: 3a7ef1b66bafb7a448a880ef76d2e6e6, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AdvancedCat: 1
+    - _Banner: 1
+    - _DirectionalCat: 1
+    - _FogCat: 1
+    - _HeightFogGlobal: 1
+    - _IsHeightFogShader: 1
+    - _NoiseCat: 1
+    - _SkyboxCat: 1
+    m_Colors: []
+  m_BuildTextureStacks: []
 --- !u!1001 &113125507
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4916,6 +5027,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5570,6 +5685,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (157)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5770,6 +5889,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Mountains_02
       objectReference: {fileID: 0}
+    - target: {fileID: 196442, guid: d73214eddd849d24a84e9dcb68195d3d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 482034, guid: d73214eddd849d24a84e9dcb68195d3d, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.1579
@@ -5895,6 +6018,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (211)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6306,6 +6433,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6680,7 +6811,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &162738649
 Transform:
@@ -6767,6 +6898,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6898,6 +7033,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Mountains_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.85302687
@@ -7023,6 +7162,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7197,6 +7340,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7475,6 +7622,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (189)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7578,6 +7729,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (127)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7954,75 +8109,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 4.000001, y: 4.0000033, z: 0.38794172}
   m_Center: {x: 0, y: 1.9999964, z: 0.00000011920932}
---- !u!21 &189964539
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Override
-  m_Shader: {fileID: 4800000, guid: a3a3bc8785681554d9558e2ea68f100e, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_LockedProperties: 
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs: []
-    m_Ints: []
-    m_Floats:
-    - _AdvancedCat: 1
-    - _Banner: 1
-    - _DirectionalCat: 1
-    - _DirectionalFalloff: 2
-    - _DirectionalIntensity: 1
-    - _FarDistanceHeight: 0
-    - _FarDistanceOffset: 0
-    - _FogAxisMode: 1
-    - _FogCameraMode: 0
-    - _FogCat: 1
-    - _FogColorDuo: 1
-    - _FogDistanceEnd: 100
-    - _FogDistanceFalloff: 2
-    - _FogDistanceStart: 0
-    - _FogHeightEnd: 100
-    - _FogHeightFalloff: 2
-    - _FogHeightStart: 0
-    - _FogIntensity: 1
-    - _FogLayersMode: 0
-    - _IsHeightFogPreset: 1
-    - _IsHeightFogShader: 1
-    - _JitterIntensity: 1
-    - _NoiseCat: 1
-    - _NoiseDistanceEnd: 50
-    - _NoiseIntensity: 1
-    - _NoiseMax: 1
-    - _NoiseMin: 0
-    - _NoiseModeBlend: 1
-    - _NoiseScale: 30
-    - _SkyboxCat: 1
-    - _SkyboxFogBottom: 0
-    - _SkyboxFogFalloff: 1
-    - _SkyboxFogFill: 1
-    - _SkyboxFogHeight: 1
-    - _SkyboxFogIntensity: 1
-    - _SkyboxFogOffset: 0
-    m_Colors:
-    - _DirectionalColor: {r: 1, g: 0.7793103, b: 0.5, a: 1}
-    - _DirectionalDir: {r: 0, g: 0, b: 0, a: 0}
-    - _FogAxisOption: {r: 0, g: 0, b: 0, a: 0}
-    - _FogColorEnd: {r: 0.8862745, g: 1.443137, b: 2, a: 1}
-    - _FogColorStart: {r: 0.4411765, g: 0.722515, b: 1, a: 1}
-    - _NoiseSpeed: {r: 0.5, g: 0, b: 0.5, a: 0}
-  m_BuildTextureStacks: []
 --- !u!1001 &191686846
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8086,6 +8172,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (136)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8472,6 +8562,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8674,6 +8768,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (207)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8852,6 +8950,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (119)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8955,6 +9057,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (163)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9196,6 +9302,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (213)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9471,7 +9581,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &215864223
 Transform:
@@ -10333,6 +10443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10802,6 +10916,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (162)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10853,6 +10971,10 @@ PrefabInstance:
     - target: {fileID: 305716340, guid: efd73b770561f1e44a9a13dfaa838213, type: 3}
       propertyPath: m_Name
       value: Bone_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 305716340, guid: efd73b770561f1e44a9a13dfaa838213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5734525275099849621, guid: efd73b770561f1e44a9a13dfaa838213, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11313,6 +11435,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (212)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11416,6 +11542,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (118)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11656,6 +11786,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (179)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11797,6 +11931,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (100)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11896,6 +12034,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12223,6 +12365,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13071,6 +13217,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13122,6 +13272,10 @@ PrefabInstance:
     - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Name
       value: Ground_12 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
@@ -13918,6 +14072,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall_22 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
       value: 2.042
@@ -14144,6 +14302,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (139)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14650,7 +14812,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &329308396
 Transform:
@@ -15039,6 +15201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (182)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15203,6 +15369,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15602,6 +15772,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (142)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16702,6 +16876,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_2_LOD0 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 14768f9325df401498cb9f0a8004d85a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16773,6 +16951,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17083,6 +17265,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (206)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17855,6 +18041,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17958,6 +18148,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18235,6 +18429,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18591,6 +18789,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18699,6 +18901,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0070b348982c39f4999cffad334c7561, type: 3}
       propertyPath: m_Name
       value: rock_big_type_3_LOD1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0070b348982c39f4999cffad334c7561, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19166,6 +19372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (130)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19270,6 +19480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (140)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19373,6 +19587,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19611,6 +19829,10 @@ PrefabInstance:
     - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Name
       value: Ground_12 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
@@ -19933,6 +20155,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (172)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20016,6 +20242,10 @@ PrefabInstance:
     - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_LocalScale.x
@@ -20221,6 +20451,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (208)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20398,6 +20632,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (148)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20844,27 +21082,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 470924, guid: b9358ccd4482f664fa2aa7c261afc1d3, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.6391335
+      value: 2.0427063
       objectReference: {fileID: 0}
     - target: {fileID: 470924, guid: b9358ccd4482f664fa2aa7c261afc1d3, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3.1243272
+      value: 2.4182494
       objectReference: {fileID: 0}
     - target: {fileID: 470924, guid: b9358ccd4482f664fa2aa7c261afc1d3, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.6391337
+      value: 2.0427065
       objectReference: {fileID: 0}
     - target: {fileID: 470924, guid: b9358ccd4482f664fa2aa7c261afc1d3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -88.19
+      value: -88.176
       objectReference: {fileID: 0}
     - target: {fileID: 470924, guid: b9358ccd4482f664fa2aa7c261afc1d3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -69.46
+      value: -68.844
       objectReference: {fileID: 0}
     - target: {fileID: 470924, guid: b9358ccd4482f664fa2aa7c261afc1d3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 67.39
+      value: 67.397
       objectReference: {fileID: 0}
     - target: {fileID: 470924, guid: b9358ccd4482f664fa2aa7c261afc1d3, type: 3}
       propertyPath: m_LocalRotation.w
@@ -21042,6 +21280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (132)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21145,6 +21387,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21327,6 +21573,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21741,6 +21991,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21937,7 +22191,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 478794935}
-  - component: {fileID: 478794936}
   m_Layer: 0
   m_Name: DUNGEON WOOD WALL
   m_TagString: Untagged
@@ -21990,22 +22243,6 @@ Transform:
   - {fileID: 2076729131}
   m_Father: {fileID: 1487459641}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &478794936
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 478794934}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3748edb79087cc94fa2f8de0997e1e6a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_OverrideArea: 1
-  m_Area: 1
-  m_IgnoreFromBuild: 0
-  m_AffectedAgents: ffffffff
 --- !u!1001 &481929576
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22450,6 +22687,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22553,6 +22794,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22712,6 +22957,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (107)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22976,6 +23225,10 @@ PrefabInstance:
     - target: {fileID: 1000013544329666, guid: 9f7e5b070b5ac5c48af67b1642c462c0, type: 3}
       propertyPath: m_Name
       value: IceFloeLow
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013544329666, guid: 9f7e5b070b5ac5c48af67b1642c462c0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011861910002, guid: 9f7e5b070b5ac5c48af67b1642c462c0, type: 3}
       propertyPath: m_LocalScale.x
@@ -23510,6 +23763,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23613,6 +23870,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (198)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23787,6 +24048,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (166)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24125,6 +24390,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24548,6 +24817,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25213,7 +25486,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &554274723
 Transform:
@@ -25296,6 +25569,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (124)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25400,6 +25677,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25950,6 +26231,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (120)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26093,6 +26378,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26243,6 +26532,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26463,6 +26756,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground_12 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
       value: 1
@@ -26664,6 +26961,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27186,6 +27487,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (101)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27439,7 +27744,7 @@ MonoBehaviour:
   renderPriority: 1
   manualPositionAndScale: 0
   styledSpace0: 0
-  overrideMaterial: {fileID: 189964539}
+  overrideMaterial: {fileID: 1132511927}
   overrideCamToVolumeDistance: 1
   overrideVolumeDistanceFade: 0
   version: 0
@@ -27471,7 +27776,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1327959645}
+  - {fileID: 106299349}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -27716,6 +28021,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (209)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27980,6 +28289,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28083,6 +28396,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28442,6 +28759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (219)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28546,6 +28867,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (210)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28649,6 +28974,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29013,6 +29342,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29111,6 +29444,10 @@ PrefabInstance:
     - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 435470, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_LocalScale.x
@@ -29274,6 +29611,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (144)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29634,6 +29975,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29837,6 +30182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_IceChunk_04
       objectReference: {fileID: 0}
+    - target: {fileID: 183804, guid: 0704de4aad0f42247b81d5bef55a63c2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 465432, guid: 0704de4aad0f42247b81d5bef55a63c2, type: 3}
       propertyPath: m_LocalScale.x
       value: 71.37583
@@ -29993,6 +30342,10 @@ PrefabInstance:
     - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Name
       value: Ground_12 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
@@ -30256,6 +30609,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30353,6 +30710,10 @@ PrefabInstance:
     - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 435470, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_LocalScale.x
@@ -30966,6 +31327,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31932,6 +32297,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (202)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32294,7 +32663,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &739605673
 Transform:
@@ -32391,6 +32760,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32804,6 +33177,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_big_type_3_LOD1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0070b348982c39f4999cffad334c7561, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33054,6 +33431,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33449,6 +33830,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33692,6 +34077,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (114)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33933,6 +34322,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.x
@@ -34645,6 +35038,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (105)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34900,6 +35297,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35576,6 +35977,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35890,6 +36295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35973,6 +36382,10 @@ PrefabInstance:
     - target: {fileID: 1000010135697682, guid: 869b8decb2e7f464ead38a3ade201744, type: 3}
       propertyPath: m_Name
       value: DistantBackgroundMountains
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010135697682, guid: 869b8decb2e7f464ead38a3ade201744, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000014216458674, guid: 869b8decb2e7f464ead38a3ade201744, type: 3}
       propertyPath: m_LocalScale.x
@@ -36094,6 +36507,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (110)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36655,6 +37072,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -36759,6 +37180,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (151)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -36862,6 +37287,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (159)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37045,6 +37474,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37096,6 +37529,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -37218,6 +37655,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37369,6 +37810,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37504,6 +37949,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37644,6 +38093,10 @@ PrefabInstance:
     - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Name
       value: Ground_12 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
@@ -37926,6 +38379,10 @@ PrefabInstance:
     - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 435470, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_LocalScale.x
@@ -39520,6 +39977,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (146)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -39649,6 +40110,10 @@ PrefabInstance:
     - target: {fileID: 935617562, guid: 604e54ca1ea79174bb1dacfa5b243053, type: 3}
       propertyPath: m_Name
       value: Blacksmith_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 935617562, guid: 604e54ca1ea79174bb1dacfa5b243053, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 274251315078449901, guid: 604e54ca1ea79174bb1dacfa5b243053, type: 3}
       propertyPath: m_LocalScale.x
@@ -40042,6 +40507,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40145,6 +40614,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (153)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40250,6 +40723,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40301,6 +40778,10 @@ PrefabInstance:
     - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Name
       value: Ground_12 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
@@ -40757,6 +41238,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40939,6 +41424,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41199,6 +41688,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (193)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42091,6 +42584,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (143)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -42251,6 +42748,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42435,6 +42936,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (186)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -42608,6 +43113,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -43013,6 +43522,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (204)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -43356,6 +43869,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground_12 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
       value: 1
@@ -43626,6 +44143,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (170)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -43729,6 +44250,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (194)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -43944,6 +44469,10 @@ PrefabInstance:
     - target: {fileID: 196442, guid: d73214eddd849d24a84e9dcb68195d3d, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 196442, guid: d73214eddd849d24a84e9dcb68195d3d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 482034, guid: d73214eddd849d24a84e9dcb68195d3d, type: 3}
       propertyPath: m_LocalScale.x
@@ -44464,6 +44993,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (216)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44567,6 +45100,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (181)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -44750,6 +45287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (121)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44928,6 +45469,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44947,6 +45492,10 @@ PrefabInstance:
     - target: {fileID: 1480133058, guid: bce8408c12caa1d4082493287f0c0e04, type: 3}
       propertyPath: m_Name
       value: Blacksmith_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1480133058, guid: bce8408c12caa1d4082493287f0c0e04, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1025938520563684248, guid: bce8408c12caa1d4082493287f0c0e04, type: 3}
       propertyPath: m_LocalScale.x
@@ -44999,6 +45548,10 @@ PrefabInstance:
     - target: {fileID: 1025938520563684248, guid: bce8408c12caa1d4082493287f0c0e04, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6809510920407601633, guid: bce8408c12caa1d4082493287f0c0e04, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -45234,6 +45787,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (195)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -45625,6 +46182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (196)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -45728,6 +46289,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (161)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -45911,6 +46476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (169)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -46046,6 +46615,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (168)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -46853,6 +47426,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -46903,6 +47480,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.x
@@ -47204,6 +47785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (133)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -47307,6 +47892,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0070b348982c39f4999cffad334c7561, type: 3}
       propertyPath: m_Name
       value: rock_big_type_3_LOD1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0070b348982c39f4999cffad334c7561, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -47555,6 +48144,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -47651,6 +48244,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -48102,6 +48699,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -48611,6 +49212,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -48696,6 +49301,10 @@ PrefabInstance:
     - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 435470, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_LocalPosition.x
@@ -48810,6 +49419,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (149)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -49217,6 +49830,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49428,6 +50045,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (183)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49537,6 +50158,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (97)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49640,6 +50265,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (109)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -50170,6 +50799,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -50382,6 +51015,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -50433,6 +51070,10 @@ PrefabInstance:
     - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_LocalScale.x
@@ -50551,6 +51192,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 14768f9325df401498cb9f0a8004d85a, type: 3}
       propertyPath: m_Name
       value: cliff_type_2_LOD0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 14768f9325df401498cb9f0a8004d85a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -50759,6 +51404,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (152)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -50799,6 +51448,75 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 2733448660354597953, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+--- !u!21 &1132511927
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Override
+  m_Shader: {fileID: 4800000, guid: a3a3bc8785681554d9558e2ea68f100e, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AdvancedCat: 1
+    - _Banner: 1
+    - _DirectionalCat: 1
+    - _DirectionalFalloff: 2
+    - _DirectionalIntensity: 1
+    - _FarDistanceHeight: 0
+    - _FarDistanceOffset: 0
+    - _FogAxisMode: 1
+    - _FogCameraMode: 0
+    - _FogCat: 1
+    - _FogColorDuo: 1
+    - _FogDistanceEnd: 100
+    - _FogDistanceFalloff: 2
+    - _FogDistanceStart: 0
+    - _FogHeightEnd: 100
+    - _FogHeightFalloff: 2
+    - _FogHeightStart: 0
+    - _FogIntensity: 1
+    - _FogLayersMode: 0
+    - _IsHeightFogPreset: 1
+    - _IsHeightFogShader: 1
+    - _JitterIntensity: 1
+    - _NoiseCat: 1
+    - _NoiseDistanceEnd: 50
+    - _NoiseIntensity: 1
+    - _NoiseMax: 1
+    - _NoiseMin: 0
+    - _NoiseModeBlend: 1
+    - _NoiseScale: 30
+    - _SkyboxCat: 1
+    - _SkyboxFogBottom: 0
+    - _SkyboxFogFalloff: 1
+    - _SkyboxFogFill: 1
+    - _SkyboxFogHeight: 1
+    - _SkyboxFogIntensity: 1
+    - _SkyboxFogOffset: 0
+    m_Colors:
+    - _DirectionalColor: {r: 1, g: 0.7793103, b: 0.5, a: 1}
+    - _DirectionalDir: {r: 0, g: 0, b: 0, a: 0}
+    - _FogAxisOption: {r: 0, g: 0, b: 0, a: 0}
+    - _FogColorEnd: {r: 0.8862745, g: 1.443137, b: 2, a: 1}
+    - _FogColorStart: {r: 0.4411765, g: 0.722515, b: 1, a: 1}
+    - _NoiseSpeed: {r: 0.5, g: 0, b: 0.5, a: 0}
+  m_BuildTextureStacks: []
 --- !u!1001 &1133477945
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50936,6 +51654,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (205)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51197,6 +51919,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -51367,6 +52093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -51470,6 +52200,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51652,6 +52386,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (171)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52557,6 +53295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Mountains_01
       objectReference: {fileID: 0}
+    - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.59341
@@ -52682,6 +53424,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (214)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52813,6 +53559,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -53098,6 +53848,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -53312,6 +54066,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -53734,6 +54492,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -53838,6 +54600,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -53857,6 +54623,10 @@ PrefabInstance:
     - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Name
       value: Ground_12 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
@@ -53980,6 +54750,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -54102,6 +54876,10 @@ PrefabInstance:
     - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_LocalScale.x
@@ -54228,6 +55006,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (154)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -54488,6 +55270,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (199)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -55157,6 +55943,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (141)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -55439,6 +56229,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -55607,6 +56401,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (115)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -55710,6 +56508,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -55978,6 +56780,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (218)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -56156,6 +56962,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -56224,6 +57034,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_2_LOD0 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 14768f9325df401498cb9f0a8004d85a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -56243,6 +57057,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -56612,6 +57430,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -56683,6 +57505,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (175)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -56867,6 +57693,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (173)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57049,6 +57879,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57068,6 +57902,10 @@ PrefabInstance:
     - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 155966, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: 27a87b0e789e67d4e9a5a3d058c5d97f, type: 3}
       propertyPath: m_LocalScale.x
@@ -57277,6 +58115,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0070b348982c39f4999cffad334c7561, type: 3}
       propertyPath: m_Name
       value: rock_big_type_3_LOD1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0070b348982c39f4999cffad334c7561, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -57701,6 +58543,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (123)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57865,6 +58711,10 @@ PrefabInstance:
     - target: {fileID: 10603838, guid: b97eefb17f24b0e4191921db18ac6999, type: 3}
       propertyPath: m_Name
       value: Box_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 10603838, guid: b97eefb17f24b0e4191921db18ac6999, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8003066844573949702, guid: b97eefb17f24b0e4191921db18ac6999, type: 3}
       propertyPath: m_LocalPosition.x
@@ -58128,6 +58978,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (125)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -58227,6 +59081,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 14768f9325df401498cb9f0a8004d85a, type: 3}
       propertyPath: m_Name
       value: cliff_type_2_LOD0 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 14768f9325df401498cb9f0a8004d85a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -58331,6 +59189,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -58712,6 +59574,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -59091,6 +59957,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall_22 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.6153524
@@ -59212,6 +60082,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -59484,7 +60358,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1303188333
 Transform:
@@ -59592,6 +60466,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -59650,27 +60528,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 456348, guid: 0fb7e559cae3d354ebf49a97f2203f4b, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.317875
+      value: 1.79405
       objectReference: {fileID: 0}
     - target: {fileID: 456348, guid: 0fb7e559cae3d354ebf49a97f2203f4b, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.5281065
+      value: 1.9567705
       objectReference: {fileID: 0}
     - target: {fileID: 456348, guid: 0fb7e559cae3d354ebf49a97f2203f4b, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.7403054
+      value: 2.121014
       objectReference: {fileID: 0}
     - target: {fileID: 456348, guid: 0fb7e559cae3d354ebf49a97f2203f4b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -88.270004
+      value: -88.237
       objectReference: {fileID: 0}
     - target: {fileID: 456348, guid: 0fb7e559cae3d354ebf49a97f2203f4b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -67.788
+      value: -67.55
       objectReference: {fileID: 0}
     - target: {fileID: 456348, guid: 0fb7e559cae3d354ebf49a97f2203f4b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 67.51001
+      value: 67.49
       objectReference: {fileID: 0}
     - target: {fileID: 456348, guid: 0fb7e559cae3d354ebf49a97f2203f4b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -60113,6 +60991,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (116)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -60394,6 +61276,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (164)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -60785,41 +61671,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2112165925693524286, guid: e2a85919981d503409e8ed76f2a7aeba, type: 3}
   m_PrefabInstance: {fileID: 1327229070}
   m_PrefabAsset: {fileID: 0}
---- !u!21 &1327959645
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Height Fog Global
-  m_Shader: {fileID: 4800000, guid: 3a7ef1b66bafb7a448a880ef76d2e6e6, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3001
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_LockedProperties: 
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs: []
-    m_Ints: []
-    m_Floats:
-    - _AdvancedCat: 1
-    - _Banner: 1
-    - _DirectionalCat: 1
-    - _FogCat: 1
-    - _HeightFogGlobal: 1
-    - _IsHeightFogShader: 1
-    - _NoiseCat: 1
-    - _SkyboxCat: 1
-    m_Colors: []
-  m_BuildTextureStacks: []
 --- !u!1001 &1330448251
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -60961,6 +61812,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (102)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61345,6 +62200,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_2_LOD0 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 14768f9325df401498cb9f0a8004d85a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -61483,6 +62342,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (147)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -61586,6 +62449,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (203)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61939,6 +62806,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (220)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -62434,6 +63305,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowyCliff (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010732889658, guid: 6bbd649e469871b43b3157ebf7d69134, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000014209159130, guid: 6bbd649e469871b43b3157ebf7d69134, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.3081002
@@ -62502,6 +63377,10 @@ PrefabInstance:
     - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_Name
       value: SM_Env_Mountains_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 198768, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 435470, guid: 5fe796031adccd745a945915d6ec60ac, type: 3}
       propertyPath: m_LocalScale.x
@@ -62621,6 +63500,10 @@ PrefabInstance:
     - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Name
       value: Ground_12 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
@@ -62810,6 +63693,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -63045,6 +63932,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -63492,6 +64383,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -63595,6 +64490,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (215)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -63817,6 +64716,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -64057,6 +64960,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -64293,6 +65200,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.x
@@ -64597,6 +65508,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (165)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -64653,6 +65568,10 @@ PrefabInstance:
     - target: {fileID: 10603838, guid: b97eefb17f24b0e4191921db18ac6999, type: 3}
       propertyPath: m_Name
       value: Box_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 10603838, guid: b97eefb17f24b0e4191921db18ac6999, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8003066844573949702, guid: b97eefb17f24b0e4191921db18ac6999, type: 3}
       propertyPath: m_LocalPosition.x
@@ -65181,6 +66100,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (180)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65531,6 +66454,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (131)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -66068,6 +66995,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground_12
       objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
       value: 1
@@ -66274,6 +67205,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall_22 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
       value: 2.042
@@ -66396,6 +67331,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (160)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -66499,6 +67438,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (129)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -66643,6 +67586,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -66815,6 +67762,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -66918,6 +67869,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -67100,6 +68055,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -67357,6 +68316,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -67751,6 +68714,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -68114,6 +69081,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -68185,6 +69156,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68289,6 +69264,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (184)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68966,6 +69945,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GlacierWall (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012260895034, guid: 35819a8f8106f3b4198e2ca6fc9c77b6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010212607032, guid: 35819a8f8106f3b4198e2ca6fc9c77b6, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.4861
@@ -69086,6 +70069,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -69319,6 +70306,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -69642,6 +70633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (188)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -69846,6 +70841,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -70764,6 +71763,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (128)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -70867,6 +71870,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -71155,6 +72162,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (104)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -71519,6 +72530,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -71622,6 +72637,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -71980,6 +72999,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (126)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -72359,6 +73382,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -72651,6 +73678,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -73038,6 +74069,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -73109,6 +74144,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -73209,6 +74248,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -73780,6 +74823,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (217)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -73883,6 +74930,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -74273,6 +75324,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -74525,6 +75580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (138)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -74579,7 +75638,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1647017601
 Transform:
@@ -75157,6 +76216,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (155)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -75550,6 +76613,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -75654,6 +76721,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -75757,6 +76828,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -75944,6 +77019,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -76125,6 +77204,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -76385,6 +77468,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (201)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -76493,6 +77580,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -76672,6 +77763,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -78591,6 +79686,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -78906,6 +80005,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -79179,6 +80282,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (137)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -79356,6 +80463,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -79778,6 +80889,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Glacier_03
       objectReference: {fileID: 0}
+    - target: {fileID: 173896, guid: 3fcd066fcc091354f8d7a4f5b1382049, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 414034, guid: 3fcd066fcc091354f8d7a4f5b1382049, type: 3}
       propertyPath: m_LocalScale.x
       value: 15.185608
@@ -79902,6 +81017,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground_12 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
       value: 1
@@ -79967,6 +81086,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -80303,6 +81426,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (145)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -80475,6 +81602,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -81076,11 +82207,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1123504306847037425, guid: 9e9ba182ccadecc48b252f634ea7d5bc, type: 3}
   m_PrefabInstance: {fileID: 1775557600}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1776649760 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7790563198288032598, guid: a3a751c3ff9cf31489769e2f5e3a4f51, type: 3}
-  m_PrefabInstance: {fileID: 850005700}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1780794592
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -81322,6 +82448,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -81394,6 +82524,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -81465,6 +82599,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (113)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -81569,6 +82707,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (178)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -82289,6 +83431,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (158)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -82796,6 +83942,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -83146,6 +84296,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -83754,6 +84908,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -83857,6 +85015,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -84223,6 +85385,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -84738,6 +85904,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -84809,6 +85979,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (167)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -85128,6 +86302,10 @@ PrefabInstance:
     - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Name
       value: Ground_12 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628770746, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1628770747, guid: bcc59605049cf8a4995bf79279008c08, type: 3}
       propertyPath: m_Convex
@@ -85978,6 +87156,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -86140,6 +87322,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -86211,6 +87397,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -86414,6 +87604,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -86680,6 +87874,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (122)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -86783,6 +87981,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -86915,6 +88117,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -86970,6 +88176,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -87092,6 +88302,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (135)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -88289,6 +89503,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -88610,6 +89828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (156)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -88713,6 +89935,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -89626,6 +90852,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (106)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -89740,11 +90970,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4206474027690282481, guid: 68b637806d6efd24792a372d9117a95d, type: 3}
   m_PrefabInstance: {fileID: 1983804920}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1985340800 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8089297233015587038, guid: eee1d4c81c3c1fb428cd35d96893e53e, type: 3}
-  m_PrefabInstance: {fileID: 2066426407}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1986702916
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -89808,6 +91033,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (108)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -89901,6 +91130,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_big_type_3_LOD1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0070b348982c39f4999cffad334c7561, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -89974,6 +91207,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -90110,6 +91347,10 @@ PrefabInstance:
     - target: {fileID: 196112, guid: a2fd6eb2561e0844abe038f988bb84da, type: 3}
       propertyPath: m_Name
       value: SM_Env_Iceberg_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 196112, guid: a2fd6eb2561e0844abe038f988bb84da, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 423546, guid: a2fd6eb2561e0844abe038f988bb84da, type: 3}
       propertyPath: m_LocalScale.x
@@ -90522,6 +91763,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (150)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -90626,6 +91871,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (200)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -90680,7 +91929,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2021859869
 Transform:
@@ -91446,6 +92695,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Iceberg_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 196112, guid: a2fd6eb2561e0844abe038f988bb84da, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 423546, guid: a2fd6eb2561e0844abe038f988bb84da, type: 3}
       propertyPath: m_LocalScale.x
       value: 11.412
@@ -91789,6 +93042,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -91892,6 +93149,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (185)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -92663,6 +93924,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -92766,6 +94031,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -92874,65 +94143,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8089297233015587038, guid: eee1d4c81c3c1fb428cd35d96893e53e, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2066426411}
-    - targetCorrespondingSourceObject: {fileID: 8089297233015587038, guid: eee1d4c81c3c1fb428cd35d96893e53e, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2066426410}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eee1d4c81c3c1fb428cd35d96893e53e, type: 3}
---- !u!114 &2066426410
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1985340800}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1908bbe46f6f128498ed913529f066b6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  agent: {fileID: 2066426411}
-  player: {fileID: 1776649760}
-  whatIsGround:
-    serializedVersion: 2
-    m_Bits: 256
-  whatIsPlayer:
-    serializedVersion: 2
-    m_Bits: 1024
-  health: 120
-  walkPoint: {x: 0, y: 0, z: 0}
-  walkPointRange: 5
-  timeBetweenAttacks: 0.5
-  projectile: {fileID: 591396225}
-  sightRange: 20
-  attackRange: 12
-  playerInSightRange: 0
-  playerInAttackRange: 0
---- !u!195 &2066426411
-NavMeshAgent:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1985340800}
-  m_Enabled: 1
-  m_AgentTypeID: -334000983
-  m_Radius: 0.5
-  m_Speed: 3.5
-  m_Acceleration: 8
-  avoidancePriority: 50
-  m_AngularSpeed: 120
-  m_StoppingDistance: 0
-  m_AutoTraverseOffMeshLink: 1
-  m_AutoBraking: 1
-  m_AutoRepath: 1
-  m_Height: 2
-  m_BaseOffset: 0
-  m_WalkableMask: 4294967295
-  m_ObstacleAvoidanceType: 4
 --- !u!1001 &2067090709
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -93317,6 +94529,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (134)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -93907,6 +95123,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall_22 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.0745
@@ -93980,6 +95200,10 @@ PrefabInstance:
     - target: {fileID: 183804, guid: 0704de4aad0f42247b81d5bef55a63c2, type: 3}
       propertyPath: m_Name
       value: SM_Env_IceChunk_04 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 183804, guid: 0704de4aad0f42247b81d5bef55a63c2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 465432, guid: 0704de4aad0f42247b81d5bef55a63c2, type: 3}
       propertyPath: m_LocalScale.x
@@ -94673,6 +95897,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_03
       objectReference: {fileID: 0}
+    - target: {fileID: 723938096, guid: af7cbe86de837d74f98e73af8d226b3b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7145892087409961103, guid: af7cbe86de837d74f98e73af8d226b3b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.6517944
@@ -94786,6 +96014,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -95223,6 +96455,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
       propertyPath: m_Name
       value: cliff_rectangular_snow_moss_type_2_LOD0 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087540b7d898ab24d90a970a6b5c65f3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -95697,6 +96933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -95904,6 +97144,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -95955,6 +97199,10 @@ PrefabInstance:
     - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_Name
       value: Wall_22 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121554051051769161, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2794600754439798084, guid: 0f3e15f4e5e2ca1419941e1d493dfd31, type: 3}
       propertyPath: m_LocalScale.y
@@ -96077,6 +97325,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
       propertyPath: m_Name
       value: cliff_type_2_LOD3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ed455b7136f5c64192b8f3292e9fde7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -96215,6 +97467,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (192)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -96564,6 +97820,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
       propertyPath: m_Name
       value: cliff_type_3_LOD3 (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 38e0fae7f373bdb4c92d0a74b7a91299, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -6,11 +6,11 @@ public class IceMonster : MonoBehaviour
 {
     public int HP = 100;
     public Animator animator;
-    
+
     public void TakeDamage(int damageAmount)
     {
         HP -= damageAmount;
-        if (HP <= 0)
+        if(HP <= 0)
         {
             animator.SetTrigger("IsDie");
             GetComponent<Collider>().enabled = false;

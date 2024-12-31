@@ -20,7 +20,7 @@ public class IdleState : StateMachineBehaviour
         timer += Time.deltaTime;
         if (timer > 5)
             animator.SetBool("IsPatrolling", true);
-        float distance = Vector3.Distance(player.transform.position, animator.transform.position);
+        float distance = Vector3.Distance(player.position, animator.transform.position);
         if (distance < chaseRange)
             animator.SetBool("IsChasing", true);
     }

@@ -18,7 +18,7 @@ namespace KeySystem
         private bool isCrosshairActive;
         private bool doOnce;
 
-        private string interactableTag = "Interactiveobject";
+        private string interactableTag = "InteractiveObject";
 
         private void Update()
         {

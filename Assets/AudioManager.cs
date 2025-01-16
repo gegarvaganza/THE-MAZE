@@ -13,9 +13,10 @@ public class AudioManager : MonoBehaviour
 
     private void Start()
     {
-        // Initialize AudioSource with clip and volume
+        // Initialize AudioSource with clip, volume, and loop settings
         musicSource.clip = background;
         musicSource.volume = volume;
+        musicSource.loop = true; // Enable looping
         musicSource.Play();
     }
 

@@ -9,6 +9,8 @@ TagManager:
   - IceMonster
   - IceBoss
   - WayPoints2
+  - Lava
+  - Checkpoint
   layers:
   - Default
   - TransparentFX

@@ -3,14 +3,32 @@ using UnityEngine;
 public class AudioManager : MonoBehaviour
 {
     [Header("-------- Audio Source --------")]
-    [SerializeField] AudioSource musicSource;
+    [SerializeField] private AudioSource musicSource;
 
     [Header("-------- Audio Clip --------")]
-    public AudioClip background;
+    [SerializeField] private AudioClip background;
+
+    [Header("-------- Volume Settings --------")]
+    [Range(0f, 1f)] public float volume = 1.0f; // Default volume level
 
     private void Start()
     {
-        musicSource .clip = background;
+        // Initialize AudioSource with clip and volume
+        musicSource.clip = background;
+        musicSource.volume = volume;
         musicSource.Play();
+    }
+
+    private void Update()
+    {
+        // Dynamically update the volume
+        musicSource.volume = volume;
+    }
+
+    // Optional: Method to set volume via script
+    public void SetVolume(float newVolume)
+    {
+        volume = Mathf.Clamp01(newVolume); // Ensure volume stays between 0 and 1
+        musicSource.volume = volume;
     }
 }
